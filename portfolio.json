@@ -55,7 +55,8 @@
       "rare_earth": {
         "name": "Rare Earth Metals",
         "holdings": [
-          "MP"
+          "MP",
+          "IDR"
         ]
       },
       "nuclear": {
